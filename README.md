@@ -1,4 +1,4 @@
-Language: **[Русский](/README.rus.md)|English**
+Language: **English**
 
 # uBlock/AdBlock filters by Conceited
 This filter list for uBlock Origin/Adblock Plus is designed to be used with such lists as EasyList, RU AdList etc., so it's
