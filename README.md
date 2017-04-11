@@ -6,8 +6,8 @@ substantially free of intersections with them. The list is made for blocking ad 
 by other filter lists maintainers. It is regularly updated and actively developed for now.
 
 **Filter list installation:**
-click **[subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/hant0508/uBlock-fillters/master/filters.txt&title=Filters%20by%20hant0508)** or use direct link:<br>
-`https://raw.githubusercontent.com/hant0508/uBlock-fillters/master/filters.txt`
+click **[subscribe](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/zConceited/Adblock-Filters/master/filters.txt&title=Filters%20by%20Conceited)** or use direct link:<br>
+`https://raw.githubusercontent.com/zConceited/Adblock-Filters/master/filters.txt`
 
 ### Recommendations
 This filter list is compatible with most modern ad blockers, however it's recommended to use
@@ -27,6 +27,6 @@ I recommend using the following filter lists for the best result:
 *only compatible with uBlock Origin
 
 ### Feedback
-If you have any problems with the filters, [open an issue](https://github.com/hant0508/uBlock-fillters/issues/new). If you have any
+If you have any problems with the filters, [open an issue](https://github.com/zConceited/Adblock-Filters/issues/new). If you have any
 difficulties in blocking ads on any site, you can also
-[write about it](https://github.com/hant0508/uBlock-fillters/issues/new). Write me [at email](mailto:slackemboi@gmail.com?subject=GitHub issue | Filters), if you have no GitHub account.
+[write about it](https://github.com/zConceited/Adblock-Filters/issues/new). Write me [at email](mailto:slackemboi@gmail.com?subject=GitHub issue | Filters), if you have no GitHub account.
