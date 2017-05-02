@@ -29,4 +29,4 @@ I recommend using the following filter lists for the best result:
 ### Feedback
 If you have any problems with the filters, [open an issue](https://github.com/zConceited/Adblock-Filters/issues/new). If you have any
 difficulties in blocking ads on any site, you can also
-[write about it](https://github.com/zConceited/Adblock-Filters/issues/new). Write me [at email](mailto:slackemboi@gmail.com?subject=GitHub issue | Filters), if you have no GitHub account.
+[write about it](https://github.com/zConceited/Adblock-Filters/issues/new). Write me [at email](mailto:slackemboi@gmail.com?subject=GitHub Issue | Filters), if you have no GitHub account.
