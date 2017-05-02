@@ -1,8 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Filters by Conceited
 ! Version: 1.0
-! Homepage: https://github.com/hant0508/uBlock-fillters
-
+! Homepage: https://github.com/zConceited/AdBlock-Filters
 ! Recommended to use with:
 ! - EasyList
 ! - EasyPrivacy
